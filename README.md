@@ -1,1 +1,2 @@
-Olá, esse projeto ensiva você a aprender o GIT.
+Olá, esse projeto enssina você a aprender o GIT.
+Isso é uma alteração.
